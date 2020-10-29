@@ -1,6 +1,15 @@
 # articalist
 
-A new Flutter application.
+A News Application that asks you for your interest before throwing information on you.
+
+News api key is used from newsapi.org.
+
+Learning Outcomes:
+State Management Using Provider.
+Restful Api.
+
+
+
 
 ## Getting Started
 
